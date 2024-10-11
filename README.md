@@ -1,11 +1,11 @@
 # Flipdot Controller
 
-[![CI](https://github.com/Qeteshpony/Flipdot Controller/actions/workflows/ci.yml/badge.svg)](https://github.com/Qeteshpony/Flipdot Controller/actions/workflows/ci.yml)
+[![CI](https://github.com/Qeteshpony/Flipdot-Controller/actions/workflows/ci.yml/badge.svg)](https://github.com/Qeteshpony/Flipdot-Controller/actions/workflows/ci.yml)
 
 
-![3D Render](https://qeteshpony.github.io/Flipdot Controller/3D/Flipdot Controller-3D_top.png)
+![3D Render](https://qeteshpony.github.io/Flipdot-Controller/3D/Flipdot%20Controller-3D_top.png)
 
-[Documentation](https://qeteshpony.github.io/Flipdot Controller)
+[Documentation](https://qeteshpony.github.io/Flipdot-Controller)
 
 
 Replacement controller for a Lawo Luminator Flipdot Display
