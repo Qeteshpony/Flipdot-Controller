@@ -7468,6 +7468,7 @@
 			(uuid "1e003288-d7ea-492d-bfb8-69dbe9f2fc45")
 		)
 		(model "${KICAD6_3DMODEL_DIR}/Module.3dshapes/Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
