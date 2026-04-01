@@ -22,3 +22,6 @@ The ATtiny is connected to the raspberry pi via I2C and controls the backlight o
 
 ### FlipDotControllerBackpanel
 This folder contains the sources for a small board I mounted into the casing backpanel of the display to show state of the raspberry pi and have a way to shut it down through a button. 
+
+### Software
+The software I wrote for this controller can be found in [this respository](https://github.com/Qeteshpony/FlipDotRaspi)
